@@ -1,0 +1,128 @@
+<html>
+<head>
+<title> Стилі веб-дизайну </title>
+<style>
+h1{
+    text-align: center;
+    color: azure;
+}
+nav{
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+    background-color: #00000088;
+   
+}
+nav a{
+    text-decoration: none;
+    color: azure;
+    
+}
+nav a:hover{
+    color: yellow;
+}
+header{
+    background-color: black;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Стилі веб-дизайну</h1>
+        <nav>
+            <a href="#minimalism">мінімалізм</a>
+            <a href="#classic">класичний</a>
+            <a href="#korporativ">корпоративний</a>
+            <a href="#apdeko">Ар-Деко</a>
+            <a href="#retro">ретро</a>
+            <a href="#hitech">hitech</a>
+            <a href="#malovani">мальований</a>
+            <a href="#informat">інформаційний</a>
+            <a href="#organ">Organic & Natural</a>
+            <a href="#krasivi">гіпографіка</a>
+        </nav>
+</header>
+<main>
+    <h2>Найбільш популярні стилі в веб-дизайні</h2>
+    <section id="minimalism">
+    <h3> Мінімалізм</h3>
+    <p>
+Незважаючи на те, що замовники сайтів часто намагаються наповнити його максимальною кількістю інформації у вигляді текстів, зображень та анімації, а також зробити сторінку функціональною, в деяких випадках подібний підхід не працює і варто звернутися до принципу «Less is more», що українською буде звучати як «Краще менше». Іншими словами, розробити сайт у стилі мінімалізм.
+    </p>
+           
+<img decoding="async" loading="lazy" class="alignleft size-full wp-image-1443" src="https://avada-media.ua/wp-content/uploads/2019/12/guest-3.jpg" alt="OpenHouseGuest" width="1000"srcset="https://avada-media.ua/wp-content/uploads/2019/12/guest-3.jpg 1920w, https://avada-media.ua/wp-content/uploads/2019/12/guest-3-768x400.jpg 768w" sizes="(max-width: 1920px) 100vw, 1920px" data-pagespeed-url-hash="1314434559" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+ </section>
+    <section id="classic">
+    <h3> Класичний стиль</h3>
+    <p>
+Як відомо, класика ніколи не виходить з моди. Саме тому класичний стиль в дизайні сайтів є одним з найбільш популярних. Найчастіше, сайти в такому стилі замовляють компанії, що надають послуги в сфері фінансів, юриспруденції або аналітики. Одним словом, ті, хто за допомогою свого сайту хоче продемонструвати серйозність, стабільність і надійність.
+    </p>
+    <img decoding="async" loading="lazy" class="alignleft size-full wp-image-1557" src="https://avada-media.ua/wp-content/uploads/2019/11/OCT4.jpg" alt="" width="1000"  srcset="https://avada-media.ua/wp-content/uploads/2019/11/OCT4.jpg 1920w, https://avada-media.ua/wp-content/uploads/2019/11/OCT4-768x400.jpg 768w" sizes="(max-width: 1920px) 100vw, 1920px" data-pagespeed-url-hash="1332466782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+       </section> 
+    <section id="korporativ">
+    <h3>Корпоративний стиль</h3>
+    <p>
+Корпоративний стиль повинен повністю підкоряється вимогам і завданням компанії, а також повинен мати чітку структуру. Сторінка повинна виглядати строго, однак, допускається присутність графіки та анімації, а також нестандартних шрифтів. Обов’язково розміщення не тільки назви, але і логотипу компанії, а також її девізу. Найчастіше, в основу сайту лягає сам корпоративний стиль компанії.
+    </p>
+    <img decoding="async" loading="lazy" class="alignleft size-full wp-image-1655" src="https://avada-media.ua/wp-content/uploads/2019/11/sv4.jpg" alt="" width="1000"  srcset="https://avada-media.ua/wp-content/uploads/2019/11/sv4.jpg 1920w, https://avada-media.ua/wp-content/uploads/2019/11/sv4-768x400.jpg 768w" sizes="(max-width: 1920px) 100vw, 1920px" data-pagespeed-url-hash="271445069" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        </section>
+    <section id="apdeko">
+    <h3>Стиль Ар-Деко</h3>
+    <p>
+Для тих, кому далекий мінімалізм і зайва стриманість класики або корпоративного стилю, але в той же час не до душі помітність етнічного стилю напевно припаде до душі яскравий і зухвалий веб-дизайн в стилі арт-деко, адже саме цей напрямок залишає величезний простір для уяву і дозволяє з повною впевненістю реалізовувати навіть найсміливіші рішення.
+    </p>
+    <img decoding="async" loading="lazy" class="alignnone size-full wp-image-11149" src="https://avada-media.ua/wp-content/uploads/2023/02/art-deco-website.png" alt="" width="1000"  srcset="https://avada-media.ua/wp-content/uploads/2023/02/art-deco-website.png 1900w, https://avada-media.ua/wp-content/uploads/2023/02/art-deco-website-768x437.png 768w" sizes="(max-width: 1900px) 100vw, 1900px" data-pagespeed-url-hash="1138497470" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        </section>
+    <section id="retro">
+    <h3>Ретро</h3>
+    <p>
+Виходячи з останніх тенденцій в сфері веб-дизайну необхідно відзначити, що стиль ретро в даний час отримав досить широке поширення і ще досить довго не вийде з моди. Однак, для того, щоб визначити характерні риси даного стилю, варто точно позначити що саме відноситься до ретро.
+    </p>
+        </section>
+    <section id="hitech">
+    <h3>НІ ТЕСН</h3>
+    <p>
+Стиль хай-тек зародився ще в 1970-х роках в архітектурі, однак, в оформленні інтер’єрів він почав використовуватися тільки через десятиліття. З розвитком сучасних технологій даний стиль не обмежився тільки реальним простором, але і досить органічно влився в сферу веб-дизайну. Основною відмінною рисою даного стилю, що робить його кілька схожим з мінімалізмом але істотно відрізняє від індустріального стилю і футуризму, є практично повна відсутність будь-яких декоративних елементів, оскільки краса була пожертвувана на догоду функціональності.
+    </p>
+    <img decoding="async" loading="lazy" class="alignleft size-full wp-image-1731" src="https://avada-media.ua/wp-content/uploads/2019/11/petr5-1.jpg" alt="" width="1000"  srcset="https://avada-media.ua/wp-content/uploads/2019/11/petr5-1.jpg 1920w, https://avada-media.ua/wp-content/uploads/2019/11/petr5-1-768x400.jpg 768w" sizes="(max-width: 1920px) 100vw, 1920px" data-pagespeed-url-hash="3545295402" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        </section>
+    <section id="malovani">
+    <h3>Мальований стиль</h3>
+    <p>
+На відміну від багатьох інших стилів, таких як арт-деко або хай-тек, які прийшли в веб-дизайн з архітектури або оформлення інтер’єрів, в мальованому, або, як його ще називають, ескізному стилі все сталося з точністю до навпаки: спочатку він був придуманий для оформлення сайтів і лише потім його елементи почали застосовуватися в різних елементах інтер’єрів.
+    </p>
+        </section>
+    <section id="informat">
+    <h3>Інформаційний</h3>
+    <p>
+Інформаційний стиль в веб-дизайні досить часто недооцінюють, вважаючи що він підходить тільки для новинних порталів. Однак, можливості даного стилю набагато ширше, і тому, його можна сміливо застосовувати як для персональних сайтів-візиток, так і для великих корпоративних порталів.
+    </p>
+    <img decoding="async" loading="lazy" class="alignleft size-full wp-image-1715" src="https://avada-media.ua/wp-content/uploads/2019/02/cnc35.jpg" alt="" width="1000"  srcset="https://avada-media.ua/wp-content/uploads/2019/02/cnc35.jpg 1920w, https://avada-media.ua/wp-content/uploads/2019/02/cnc35-768x360.jpg 768w" sizes="(max-width: 1920px) 100vw, 1920px" data-pagespeed-url-hash="2104587176" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        </section>
+    <section id="organ">
+    <h3>Organic & Natural</h3>
+    <p>
+Суть стилю Organic & Natural видно вже в його назві: дизайн даного напрямку має на увазі використання різних «природних» текстур, наприклад, трави або дерева, а також графічного наповнення пейзажно-рослинної тематики. Сфери застосування органічного стилю в веб-дизайні різноманітні, адже головний акцент припадає на візуальний ряд, а не особливості будови сторінки або її інформаційне наповнення.
+    </p>
+        </section>
+    <section id="krasivi">
+    <h3>Красива гіпографіка</h3>
+    <p>
+Стиль «Красива типографіка» – це щось середнє між газетним і мальованим стилем, а точніше, поєднує їх в собі. Проте, відмінності досить істотні. Так, на відміну від газетного, типографічний стиль має на увазі використання яскравих і нестандартних шрифтів, але, на відміну від мальованого, головний акцент в ньому ставиться не на графічному, а на текстовому контенті. Таким чином, даний стиль ідеально підходить не тільки для створення персональних сайтів-візиток, але і для оформлення посадкових і промо-сторінок, інтернет-магазинів і навіть корпоративних сайтів.
+    </p>
+    <img decoding="async" loading="lazy" class="alignnone size-full wp-image-11158" src="https://avada-media.ua/wp-content/uploads/2019/12/Beautiful-typography-website.png" alt="" width="1000" srcset="https://avada-media.ua/wp-content/uploads/2019/12/Beautiful-typography-website.png 1900w, https://avada-media.ua/wp-content/uploads/2019/12/Beautiful-typography-website-768x437.png 768w" sizes="(max-width: 1900px) 100vw, 1900px" data-pagespeed-url-hash="3321296410" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        </section>
+
+</main>
+<footer></footer>
+</body>
+</html>
